@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rules_btn">Правила</string>
+    <string name="play_again_btn">Играть снова</string>
+    <string name="roll_btn">Бросить</string>
+    <string name="play_btn">Играть</string>
+    <string name="game_rules">\tПравила игры: \n\t ваш первый бросок, \n\t * 7 или 11 приносит
+        вам победу.\n\t * Игра в кости (2, 3 или 12) означает, что вы проиграли. \n Выигрыш
+        других комбинаций сделает это вашей целью. \n\t * Вы должны поразить свою цель, чтобы
+        победить.\n\t * На этот раз вы проиграете, получив 7 баллов.</string>
+    <string name="luck_tv">---- Попытай счастья----</string>
+    <string name="title">Игра в кости</string>
+    <string name="score">-Счет- \n</string>
+    <string name="lucky_you_won">Повезло! ты победил</string>
+    <string name="crap_loose">Черт! Ты Теряешь</string>
+    <string name="target">Цель:</string>
+    <string name="roll_again">Бросать еще раз</string>
+    <string name="you_won">Ты победил!</string>
+    <string name="you_loose">Ты проиграл!</string>
+    <string name="first_throw_tv">Ваш первый бросок \n Удачи!</string>
+</resources>

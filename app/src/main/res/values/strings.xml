@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Dice Game</string>
+    <string name="title_activity_menu" translatable="false">MenuActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="rules_btn">Rules</string>
+    <string name="play_again_btn">Play Again</string>
+    <string name="roll_btn">Roll</string>
+    <string name="play_btn">Play</string>
+    <string name="game_rules">\tGame Rules:\n On your first throw,\n\t * 7 or 11 brings you win.\n\t *
+        Craps (2, 3 or 12) means you lose.\n Scoring other combinations will make that your Target.
+        \n\t * You have to hit your Target to win.\n\t * You lose by getting a 7 this time.</string>
+    <string name="luck_tv">----Try your luck----</string>
+    <string name="title">Dice Game</string>
+    <string name="score">-Score- \n</string>
+    <string name="lucky_you_won">Lucky! You Won</string>
+    <string name="crap_loose">Crap! You Loose</string>
+    <string name="target">Target:\t</string>
+    <string name="roll_again">Roll Again</string>
+    <string name="you_won">You Won!</string>
+    <string name="you_loose">You Loose!</string>
+    <string name="first_throw_tv">Your first throw \n Good luck!</string>
+</resources>

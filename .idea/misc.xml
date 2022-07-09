@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DemA/Android/DiceGame/app/src/main/res/drawable/rules_background.xml" value="0.15" />
+        <entry key="..\:/DemA/Android/DiceGame/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/DemA/Android/DiceGame/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/DemA/Android/DiceGame/app/src/main/res/mipmap-anydpi-v26/ic_launcher_applogo.xml" value="0.105" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGame/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGameAndroid/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGameAndroid/app/src/main/res/layout/activity_menu.xml" value="0.3484375" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGameAndroid/app/src/main/res/layout/fragment_second.xml" value="0.3625" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGameAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19010416666666666" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGameAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_applogo.xml" value="0.19010416666666666" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGameAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_applogo_round.xml" value="0.19010416666666666" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGameAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_dicegamelogo.xml" value="0.19010416666666666" />
+        <entry key="..\:/_Study/SEIP-AppDev/projects/DiceGameAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_dicegamelogo_round.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
